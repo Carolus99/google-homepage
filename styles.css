@@ -5,6 +5,7 @@ ul{
     padding:0;
     font-size:14px;
     font-style:normal;
+    color: grey;
 }
 
 nav{
@@ -41,16 +42,20 @@ main{
     background-repeat: no-repeat;
     padding-left:40px;
     background-size: 16px 16px;
+    border:2px #f2f2f2;
 
 }
 
 #submit{
-    width:10%;
+    width:8%;
     margin:10px;
     background-color:#f2f2f2;
     padding:10px;
     border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
+    border: 2px #f2f2f2;
+    font-size:16px;
+    color:grey;
 }
 
 footer{
